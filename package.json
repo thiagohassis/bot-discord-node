@@ -1,0 +1,20 @@
+{
+  "name": "bot-thiagoborges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "underscore": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  }
+}

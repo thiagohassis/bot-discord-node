@@ -1,0 +1,67 @@
+[
+	{
+		"question": "O que significa Roleplay?",
+        "answers": ["Mata-Mata", "Role com os Amigos", "Simular a vida real", "Simular a Fantasia"],
+        "correct": ["3"]
+    },
+    {
+		"question": "O que é RDM?",
+        "answers": ["RDM é quando alguém abusou de bug", "RDM é atropelar alguém sem motivo", "RDM é matar alguém sem motivo", "RDM é sacar uma arma e ameaçar alguém"],
+        "correct": ["3"]
+    },
+    {
+		"question": "O que é considerado anti RP?",
+        "answers": ["Vender drogas em área safe", "É você quebrar as regras do servidor", "E você cometer infrações de trânsito", "É você fazer rp de bandido"],
+        "correct": ["2"]
+    },
+    {
+		"question": "O que é AMOR A VIDA?",
+        "answers": ["Reagir a um assalto", "É valorizar a sua vida como ela fosse única", "É ter amor próprio", "É pular de uma ponte para evitar não ser pego"],
+        "correct": ["2"]
+    },
+    {
+		"question": "O que é PowerGaming?",
+        "answers": ["É você ter super forças no jogo", "Usar informaçoes de fora do jogo dentro do jogo", "É abusar da mecânica do jogo", "E você fazer um rp forçando com os players"],
+        "correct": ["3"]
+    },
+    {
+		"question": "O que é MetaGaming?",
+        "answers": ["Usar informacoes de fora do jogo dentro do jogo", "É você fazer RP baseado em metas de missões", "É você pedir alguém em Casamento", "É você jogar usando Discord"],
+        "correct": ["1"]
+    },
+    {
+		"question": "O que é COMBAT LOGGING?",
+        "answers": ["É entrar em combate na ação", "É chamar alguém para lutar", "É deslogar do servidor para fugir de abordagem, prisão, roubo", "É tentar fugir ao ser abordado"],
+        "correct": ["3"]
+    },
+    {
+		"question": "Quais são as safe zones?",
+        "answers": ["Zonas Safes: Praça, Delegacia, Hospital, Concessionária", "Delegacia, Hospital, Concessionária, Areas de Farm Legal", "Aeroporto, Garagem, Areas de Farm Legal", "Praça, Areas de Farm Legal, Hospital, Delegacia"],
+        "correct": ["2"]
+    },
+    {
+		"question": "O que é VDM?",
+        "answers": ["É usar um Veiculo para matar alguém", "É matar alguém sem motivo", "É ato de abusar da mecânica do jogo", "VDM é subir uma montanha com carro de drift"],
+        "correct": ["1"]
+    },
+    {
+		"question": "Se você morrer o que você deverá fazer?",
+        "answers": ["Reiniciar o FiveM e reentrar no servidor", "Aguardar a contagem terminar para voltar ao RP", "Pedir para um Staff me reviver", "Nenhuma das anteriores"],
+        "correct": ["2"]
+    },
+    {
+		"question": "Ao ser algemado(a) sua comunicação é cortada automaticamente, logo:",
+        "answers": ["Mando tirarem a algema porque o RP está errado", "Devo seguir o RP que está sendo feito no momento", "Chamo alguém pelo Discord para me ajudar", "Peço pra um staff vim resolver a situação"],
+        "correct": ["2"]
+    },
+    {
+		"question": "Nas áreas de risco elevado o crime é conhecidamente praticado e a policia não patrulha, sendo assim:",
+        "answers": ["Ao entrar numa dessas áreas posso praticar atropelamentos", "Posso matar só por matar", "Posso roubar e/ou matar, porém com motivos e abordagem correto", "Posso ser roubado e morto e depois me vingar"],
+        "correct": ["3"]
+    },
+    {
+		"question": "Ao entrar no servidor você concorda com todas as regras nele impostas?",
+        "answers": ["Discordo", "Que regras?", "Nulo", "Concordo"],
+        "correct": ["4"]
+	}
+]

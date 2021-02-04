@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Duvidas",
+        "description": "Tenho alguma dúvida",
+        "TAG": "duv",
+        "confirmMessage": "Essa categoria é para duvidas sobre o servidor, é isso mesmo?"
+    },
+    {
+        "name": "Reembolso",
+        "description": "Preciso de reembolso",
+        "TAG": "rem",
+        "confirmMessage": "Essa categoria é para solicitar reembolso, é isso mesmo?"
+    },
+    {
+        "name": "Denuncia",
+        "description": "Gostaria de fazer uma denuncia sobre algo que aconteceu",
+        "TAG": "den",
+        "confirmMessage": "Essa categoria é para fazer denuncias, é isso mesmo?"
+    },
+    {
+        "name": "Ajuda",
+        "description": "Tive um problema e preciso de ajuda",
+        "TAG": "aju",
+        "confirmMessage": "Essa categoria é para quem teve algum problema, é isso mesmo?"
+    },
+    {
+        "name": "Comercial",
+        "description": "Gostaria de adquirir VIP",
+        "TAG": "com",
+        "confirmMessage": "Essa categoria é para a compra de VIP, é isso mesmo?"
+    },
+    {
+        "name": "Parceria",
+        "description": "Sou youtuber/streamer e gostaria de parceria",
+        "TAG": "par",
+        "confirmMessage": "Essa categoria é para quem é youtuber/streamer e busca parceria, é isso mesmo?"
+    }
+]
